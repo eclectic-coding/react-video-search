@@ -6,7 +6,10 @@ const VideoDetail = ({ video }) => {
   }
   return (
     <div>
-      <h3>{video.snippet.title}</h3>
+      <div className="ui segment">
+        <h4>{video.snippet.title}</h4>
+        <p>{video.snippet.desciption}</p>
+      </div>
     </div>
   )
 }
