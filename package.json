@@ -1,6 +1,19 @@
 {
   "name": "videos",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "author": "Chuck Smith <chuck@eclecticsaddlebag.com>",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "youtube"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polishedwp/react-video-search"
+  },
+  "bugs": {
+    "url": "https://github.com/polishedwp/react-video-search/issues"
+  },
   "private": true,
   "dependencies": {
     "axios": "0.18.1",
