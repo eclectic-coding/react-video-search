@@ -1,8 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Video Search App
 
-In the project directory, you can run:
+This is a CRA using the YouTube API to search for videos, displays the first five results, and loads the the first video in a player.
+
+Go to the [live demo](https://react-video-search.netlify.com/)
+
+It was developed working through a [Udemy Tutorial](https://www.udemy.com/) video by [Stephen Grider](https://twitter.com/ste_grider) entitled: [Modern React with Redux [2019 Update]](https://www.udemy.com/react-redux/). This is a great video teaching on React.
+
+## Default React Boilerplate Below
 
 ### `npm start`
 
