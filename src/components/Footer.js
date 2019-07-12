@@ -13,6 +13,12 @@ export default function Footer() {
           Twitter
         </a>
       </p>
+      <p>
+        Based on Udemy Videos by{' '}
+        <a href="https://www.udemy.com/user/sgslo/" alt="Video Instructor.">
+          Stephen Grider
+        </a>
+      </p>
     </div>
   )
 }
